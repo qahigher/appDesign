@@ -1,0 +1,9 @@
+Hello everyone, 
+
+I created a new firebase gmail account:
+ name: ADDA Design 
+ gmail: addappdesign@gmail.com
+ password: almondJu1ce
+ 
+ If anyone needs to login to contribute something to the actual program
+ 
